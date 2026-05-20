@@ -1,2 +1,3 @@
 - initial project
 - [KBP-001]: Add User Profile
+- [KBP-003]: Hot-Fix on Add User Profile
